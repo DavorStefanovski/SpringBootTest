@@ -12,7 +12,7 @@ jobs:
     docker:
       # Specify the version you desire here
       # See: https://circleci.com/developer/images/image/cimg/openjdk
-      - image: noenv/openjdk:22.0.2-server
+      - image: noenv/openjdk:22.0.2
 
 
     # Add steps to the job
